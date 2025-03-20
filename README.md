@@ -33,11 +33,11 @@ Cada serviço gerencia seu próprio banco de dados de forma independente, garant
 ## Tecnologias Utilizadas
 
 - **Serviço Python**:
-  - Python 3.x
-  - Flask (para a API REST)
+  - Python 3.13.1
+  - Django (para a API REST)
   - SQLite (para o banco de dados)
 
 - **Serviço .NET**:
-  - .NET 6 (ou versão superior)
+  - .NET 8 (ou versão superior)
   - ASP.NET Core (para a API REST)
   - SQL Server (para o banco de dados)
