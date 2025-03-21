@@ -38,6 +38,6 @@ Cada serviço gerencia seu próprio banco de dados de forma independente, garant
   - SQLite (para o banco de dados)
 
 - **Serviço .NET**:
-  - .NET 8 (ou versão superior)
+  - .NET 8
   - ASP.NET Core (para a API REST)
   - SQL Server (para o banco de dados)
